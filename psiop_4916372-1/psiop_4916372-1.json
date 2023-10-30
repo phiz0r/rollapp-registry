@@ -2,7 +2,7 @@
 {
   "chainId": "psiop_4916372-1",
   "chainName": "PsiOP",
-  "rpc": "https://froopyland.dymension.xyz/3/psiop_4916372-1/rpc"",
+  "rpc": "https://froopyland.dymension.xyz/3/psiop_4916372-1/rpc",
   "rest": "https://froopyland.dymension.xyz/3/psiop_4916372-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
